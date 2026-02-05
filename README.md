@@ -14,9 +14,9 @@
 ## 🧠 About Me
 
 🎓 Computer Science student at **IIIT Bhagalpur**  
-🤖 Engineer focused on **Generative AI systems & RAG architectures**  
+🤖 Focused on **Generative AI (RAG)** + **Scalable Backend Systems**  
 💻 Built **production-grade apps serving 300+ users**  
-⚡ Passionate about **performance optimization & scalable backends**  
+⚡ Passionate about performance optimization & intelligent systems  
 🧩 Solved **1000+ DSA problems**
 
 ---
@@ -35,17 +35,17 @@
 
 ## 🏆 Featured Projects
 
-### 🧠 SymptoSense AI  
-LLM-powered health analysis using RAG  
+### 🧠 SymptoSense AI — Intelligent Health Analyzer  
+AI-powered health analysis using LLM + RAG  
 ✔ 40% hallucination reduction  
 ✔ <100ms retrieval latency  
-✔ Secure analytics & session tracking  
+✔ Secure session tracking  
 🔗 https://github.com/Nawazish2026/SymptoSense-AI  
 
 ---
 
-### 💊 DocuScript (E-Prescription SaaS)  
-Clinical prescription & analytics platform  
+### 💊 DocuScript — E-Prescription SaaS  
+Digital prescription & analytics platform  
 ✔ 300+ active users  
 ✔ 60% faster report workflows  
 ✔ 35% DB performance improvement  
@@ -53,18 +53,20 @@ Clinical prescription & analytics platform
 
 ---
 
-### 🎬 CineVelo Movie Platform  
-Netflix-style movie discovery system  
+### 🎬 CineVelo — Movie Discovery Platform  
+Netflix-style movie exploration system  
 ✔ Metadata for 10k+ titles  
 ✔ 25% frontend performance boost  
+✔ Secure watchlist persistence  
 🔗 https://github.com/Nawazish2026/Action-Discovery  
 
 ---
 
-### 📱 eJournal iOS App  
-SwiftUI journaling with media persistence  
-✔ SwiftData local storage  
+### 📱 eJournal — iOS Personal Journal  
+SwiftUI journaling app with media persistence  
+✔ SwiftData storage  
 ✔ Photos integration  
+✔ Apple HIG design  
 🔗 https://github.com/Nawazish2026/eJournal  
 
 ---
@@ -88,7 +90,6 @@ SwiftUI journaling with media persistence
 
 ### 🤖 AI / GenAI
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://img.shields.io/badge/RAG-System-blueviolet" />
   <img src="https://img.shields.io/badge/Vector-DB-orange" />
   <img src="https://img.shields.io/badge/LLM-Integration-green" />
@@ -111,8 +112,8 @@ SwiftUI journaling with media persistence
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nawazish2026&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nawazish2026&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nawazish2026&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nawazish2026&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -134,6 +135,5 @@ SwiftUI journaling with media persistence
 
 ---
 
-### ⚡ Motto
-
+### ⚡ Motto  
 **Build intelligent systems. Optimize performance. Ship impact.**
