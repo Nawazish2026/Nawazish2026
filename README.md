@@ -2,98 +2,113 @@
 <h3 align="center">🚀 GenAI Engineer | Full Stack Developer | System Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=GenAI+Engineer;RAG+System+Builder;MERN+Stack+Developer;High-Performance+Backend+Designer&center=true&width=520&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=GenAI+Engineer;RAG+System+Architect;MERN+Stack+Developer;High-Performance+Backend+Builder&center=true&width=520&height=45">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nawazish2026&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🧠 Who Am I
+## 🧠 About Me
 
 🎓 Computer Science student at **IIIT Bhagalpur**  
-🤖 Specializing in **Generative AI (RAG Systems)** + **Scalable Backend Architecture**  
-💻 Built **production-grade systems serving 300+ active users**  
-🧩 Solved **1000+ algorithmic problems** across LeetCode & CodeChef  
-⚡ Passionate about building intelligent, high-performance applications
+🤖 Engineer focused on **Generative AI systems & RAG architectures**  
+💻 Built **production-grade apps serving 300+ users**  
+⚡ Passionate about **performance optimization & scalable backends**  
+🧩 Solved **1000+ DSA problems**
 
 ---
 
-## 🚀 What I Build
+## 🚀 Engineering Domains
 
-| Domain | Focus |
-|-------|------|
-| 🧠 AI Systems | Retrieval-Augmented Generation (RAG), LLM integrations |
-| 🌐 Full Stack Apps | MERN, Next.js, Auth, APIs |
-| 📊 Data Systems | Aggregations, Analytics Dashboards |
-| ⚙️ Backend Performance | Async APIs, Query Optimization, Real-Time Systems |
-| 📱 Mobile Engineering | SwiftUI, SwiftData, UIKit |
+| Domain | Expertise |
+|-------|-----------|
+| 🧠 AI Systems | RAG pipelines, LLM grounding, vector search |
+| 🌐 Full Stack | MERN, Next.js, Auth systems |
+| ⚙️ Backend | Async APIs, performance tuning, real-time systems |
+| 📊 Data | Analytics dashboards, aggregations |
+| 📱 Mobile | SwiftUI, SwiftData |
 
 ---
 
-## 🏆 Featured Engineering Projects
+## 🏆 Featured Projects
 
-### 🧠 SymptoSense AI — Intelligent Health System
-AI-powered health analysis platform using **LLMs + Vector Search**  
-✔ Reduced hallucinations by **40%** via structured RAG pipeline  
-✔ Sub-100ms retrieval latency  
-✔ Secure session tracking + analytics  
-**Stack:** Next.js, Gemini API, MongoDB Atlas, Vector DB  
+### 🧠 SymptoSense AI  
+LLM-powered health analysis using RAG  
+✔ 40% hallucination reduction  
+✔ <100ms retrieval latency  
+✔ Secure analytics & session tracking  
 🔗 https://github.com/Nawazish2026/SymptoSense-AI  
 
 ---
 
-### 💊 DocuScript — E-Prescription SaaS
-Digital prescription and analytics platform for doctors  
-✔ Used by **300+ active users**  
-✔ Reduced report generation time by **60%**  
-✔ MongoDB query optimization (+35% performance)  
-**Stack:** MERN, JWT, OAuth, jsPDF, Nodemailer  
+### 💊 DocuScript (E-Prescription SaaS)  
+Clinical prescription & analytics platform  
+✔ 300+ active users  
+✔ 60% faster report workflows  
+✔ 35% DB performance improvement  
 🔗 https://github.com/Nawazish2026/EPRESCRIPTION  
 
 ---
 
-### 🎬 CineVelo — Movie Discovery Platform
-Netflix-style movie browsing system  
-✔ Handles metadata for **10,000+ titles**  
-✔ 25% frontend performance improvement  
-✔ Secure watchlist persistence  
-**Stack:** React, TMDB API, Firebase  
+### 🎬 CineVelo Movie Platform  
+Netflix-style movie discovery system  
+✔ Metadata for 10k+ titles  
+✔ 25% frontend performance boost  
 🔗 https://github.com/Nawazish2026/Action-Discovery  
 
 ---
 
-### 📱 eJournal — iOS Personal Journaling App
-Modern SwiftUI journaling app with photo support  
-✔ SwiftData persistence  
+### 📱 eJournal iOS App  
+SwiftUI journaling with media persistence  
+✔ SwiftData local storage  
 ✔ Photos integration  
-✔ Native Apple HIG design  
-**Stack:** SwiftUI, SwiftData, PhotosUI  
 🔗 https://github.com/Nawazish2026/eJournal  
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
-**Languages**  
-C • C++ • Python • JavaScript • TypeScript • Swift • SQL  
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,swift,sql" />
+</p>
 
-**Frontend**  
-React • Next.js • Tailwind CSS  
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
 
-**Backend**  
-Node.js • Express • FastAPI • MongoDB • JWT  
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi" />
+</p>
 
-**AI / GenAI**  
-RAG • Gemini API • Vector Databases • LLM Prompt Engineering  
+### 🤖 AI / GenAI
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/RAG-System-blueviolet" />
+  <img src="https://img.shields.io/badge/Vector-DB-orange" />
+  <img src="https://img.shields.io/badge/LLM-Integration-green" />
+</p>
 
-**Mobile**  
-SwiftUI • UIKit • SwiftData  
+### 📱 Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=swift" />
+  <img src="https://img.shields.io/badge/SwiftUI-red" />
+  <img src="https://img.shields.io/badge/UIKit-blue" />
+</p>
 
-**Tools**  
-Docker • Git • Firebase • Postman • Vercel  
+### ☁️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,firebase,vercel,postman" />
+</p>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nawazish2026&show_icons=true&theme=tokyonight" />
@@ -102,16 +117,16 @@ Docker • Git • Firebase • Postman • Vercel
 
 ---
 
-## 🏅 Beyond Code
+## 🏅 Achievements
 
-🏆 3★ CodeChef Coder (1600+ rating)  
+🏆 CodeChef 3★ (1600+ rating)  
 📈 1000+ DSA problems solved  
-🎯 Secretary & Tech Lead — Web Dev Club, IIIT Bhagalpur  
-👥 Mentored 50+ developers  
+👨‍🏫 Mentored 50+ students  
+🎯 Tech Lead — Web Dev Club, IIIT Bhagalpur  
 
 ---
 
-## 🌍 Let's Connect
+## 🌍 Connect With Me
 
 📧 nawazishhassan2003@gmail.com  
 🔗 LinkedIn: linkedin.com/in/nawazish-hassan  
@@ -121,4 +136,4 @@ Docker • Git • Firebase • Postman • Vercel
 
 ### ⚡ Motto
 
-**“Build intelligent systems. Optimize everything. Ship fast.”**
+**Build intelligent systems. Optimize performance. Ship impact.**
