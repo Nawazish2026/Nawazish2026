@@ -122,8 +122,6 @@ SwiftUI journaling app with media persistence
 
 🏆 CodeChef 3★ (1600+ rating)  
 📈 1000+ DSA problems solved  
-👨‍🏫 Mentored 50+ students  
-🎯 Tech Lead — Web Dev Club, IIIT Bhagalpur  
 
 ---
 
